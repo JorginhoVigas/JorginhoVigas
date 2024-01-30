@@ -6,6 +6,8 @@
 
 ![Jorge Vigas GitHub stats](https://github-readme-stats.vercel.app/api?username=JorginhoVigas&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorginhoVigas&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
 
 ## Tecnologias que eu uso no meu dia
 
