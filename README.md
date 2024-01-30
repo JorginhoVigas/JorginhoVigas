@@ -26,4 +26,4 @@
 Analista de Dados apaixonado pelo universo de Grand Theft Auto Roleplay (GTA RP)
 
 ## E-mail para contato:
-[jorginho.vigas31@gmail.com](mailto:jorginho.vigas31@gmail.com)
+<a href="mailto:jorginho.vigas31@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"><a/>
