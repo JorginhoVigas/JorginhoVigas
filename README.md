@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Seja+Bem+Vindo!;Ol%C3%A1!+Eu+sou+Jorge+Vigas;Esse+%C3%A9+o+meu+GitHub;Analista+de+Dados+apaixonado+pelo+universo+de+Grand+Theft+Auto+Roleplay+(GTA+RP))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+Bem+Vindo!;Ol%C3%A1!+Eu+sou+Jorge+Vigas;Esse+%C3%A9+o+meu+GitHub;Desenvolvedor+FullStack;Apaixonado+Pelo+Universo+de+FIVEM)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgevigas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorginhovigas93/)
