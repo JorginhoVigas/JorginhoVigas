@@ -10,7 +10,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorginhoVigas&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 <div style="display: inline_block"><br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Logo+abaixo%2C+voc%C3%AA+pode+conferir;+as+tecnologias+que+utilizo." alt="Typing SVG" /></a>
     <h2>Linguagens de Marcação e Estilo</h2>
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
